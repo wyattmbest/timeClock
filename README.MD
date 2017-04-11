@@ -1,6 +1,6 @@
 # Time Clock 
 
-Time clock application written using a MEAN stack.\
+Time clock application written using a MEAN stack.
 
 ## TODO
 
